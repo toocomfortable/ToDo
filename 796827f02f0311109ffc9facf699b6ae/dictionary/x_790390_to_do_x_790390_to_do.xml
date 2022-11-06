@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5f1963342f0311109ffc9facf699b6fc" label="To Do(old)" max_length="40" name="x_790390_to_do_x_790390_to_do" type="collection">
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Due Date" max_length="40" name="due_date" type="glide_date"/>
+        <element choice="3" label="Importance" max_length="40" name="importance" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Important" sequence="0" value="important"/>
+                <element inactive_on_update="false" label="Not Important" sequence="1" value="not_important"/>
+                <element inactive_on_update="false" label="Very Important" sequence="2" value="very_important"/>
+            </choice>
+        </element>
+        <element choice="3" label="Progress" max_length="40" name="progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Started" sequence="0" value="not_started"/>
+                <element inactive_on_update="false" label="In Progress" sequence="1" value="in_progress"/>
+                <element inactive_on_update="false" label="Done" sequence="2" value="done"/>
+                <element inactive_on_update="false" label="Canceled" sequence="3" value="canceled"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Project" max_length="40" name="project" type="string"/>
+        <element label="Send reminder" max_length="40" name="send_reminder" type="boolean"/>
+        <element label="To do item" max_length="150" name="to_do_item" type="string"/>
+        <element label="To do Project" max_length="32" name="to_do_project" reference="x_790390_to_do_x_790390_to_do" type="reference"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="to_do_project"/>
+        </index>
+    </element>
+</database>
