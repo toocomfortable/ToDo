@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>routeConfigId</name>
+        <page display_value=" To Do Workspace_v1">dce533343643111008507e64e0ba9f62</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 20:52:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>d8e533349343111028ab465354404e67</sys_id>
+        <sys_name>routeConfigId</sys_name>
+        <sys_package display_value="To do" source="x_790390_to_do">796827f02f0311109ffc9facf699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do">796827f02f0311109ffc9facf699b6ae</sys_scope>
+        <sys_update_name>sys_ux_page_property_d8e533349343111028ab465354404e67</sys_update_name>
+        <type>string</type>
+        <unique_name>x_790390_to_do.dce533343643111008507e64e0ba9f62.root.routeConfigId</unique_name>
+        <value>76a302f10b131010a8b1c96237673a61</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=d8e533349343111028ab465354404e67"/>
+</record_update>

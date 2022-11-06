@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_suggestion_reader_group">
+    <sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <click_in_mode>false</click_in_mode>
+        <context_config_id display_value="To do workspace - Workspace Search">3994f3b022431110a0411054f01a2210</context_config_id>
+        <limit>5</limit>
+        <order>600</order>
+        <section_header>Suggested</section_header>
+        <suggestion_type>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</suggestion_type>
+        <sys_class_name>sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 20:46:41</sys_created_on>
+        <sys_id>f594f3b05c4311109466abb95477b80c</sys_id>
+        <sys_name>Search-based Suggested Results Reader Group for Starter Workspace - Workspace Search</sys_name>
+        <sys_package display_value="To do" source="x_790390_to_do">796827f02f0311109ffc9facf699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do">796827f02f0311109ffc9facf699b6ae</sys_scope>
+        <sys_update_name>sys_suggestion_reader_group_f594f3b05c4311109466abb95477b80c</sys_update_name>
+    </sys_suggestion_reader_group>
+</record_update>

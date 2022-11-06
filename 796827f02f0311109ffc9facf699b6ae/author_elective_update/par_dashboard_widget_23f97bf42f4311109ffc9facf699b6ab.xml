@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="DELETE">
+        <canvas display_value="">90e533346a4311108a7d3fd10bb92b63</canvas>
+        <component display_value="Pie">96abe7e38d8790718022c5630a92176c</component>
+        <component_props>{"configVersion":"22.1.7","showDataLabels":false,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_790390_to_do_to_do","id":"dGFibGV4Xzc5MDM5MF90b19kb190b19kbzE2Njc3Njg5ODczNzM=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzc5MDM5MF90b19kb190b19kbzE2Njc3Njg5ODczNzM=","id":"ZEdGaWJHVjRYemM1TURNNU1GOTBiMTlrYjE5MGIxOWtiekUyTmpjM05qZzVPRGN6TnpNPTE2Njc3Njg5ODg2MzM=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"dataSource":"dGFibGV4Xzc5MDM5MF90b19kb190b19kbzE2Njc3Njg5ODczNzM=","groupByField":"project","isRange":false,"isChoice":false,"isPaBucket":false}]}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default"}</component_props>
+        <h>10</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 21:10:16</sys_created_on>
+        <sys_id>23f97bf42f4311109ffc9facf699b6ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To do" source="x_790390_to_do">796827f02f0311109ffc9facf699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do">796827f02f0311109ffc9facf699b6ae</sys_scope>
+        <sys_update_name>par_dashboard_widget_23f97bf42f4311109ffc9facf699b6ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-06 21:10:16</sys_updated_on>
+        <visualization/>
+        <w>2</w>
+        <x>0</x>
+        <y>11</y>
+    </par_dashboard_widget>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To do">796827f02f0311109ffc9facf699b6ae</application>
+        <file_path/>
+        <instance_id>ae3b5e8adb67d7403353f22ebf9619c5</instance_id>
+        <instance_name>dev67657</instance_name>
+        <name>par_dashboard_widget_23f97bf42f4311109ffc9facf699b6ab</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget"><par_dashboard_widget action="INSERT_OR_UPDATE"><canvas display_value="">90e533346a4311108a7d3fd10bb92b63</canvas><component display_value="Pie">96abe7e38d8790718022c5630a92176c</component><component_props>{"configVersion":"22.1.7","showDataLabels":false,"dataLabelsType":"both","truncationType":"end","showRegister":true,"registerPosition":"bottom","registerOrientation":"horizontal","showRegisterOnSameLine":false,"showRegisterValue":false,"legendHorizontalAlignment":"center","legendExpandToFit":false,"showRegisterPercentage":false,"colorConfig":{"type":"default"},"dataSources":[{"isDatabaseView":false,"allowRealTime":true,"label":"To Do","sourceType":"table","tableOrViewName":"x_790390_to_do_to_do","id":"dGFibGV4Xzc5MDM5MF90b19kb190b19kbzE2Njc3Njg5ODczNzM=","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"wrapTitle":false,"showHeaderSeparator":false,"showBorder":true,"bareBorder":false,"showDataPassthrough":false,"dataPassthrough":null,"metrics":[{"dataSource":"dGFibGV4Xzc5MDM5MF90b19kb190b19kbzE2Njc3Njg5ODczNzM=","id":"ZEdGaWJHVjRYemM1TURNNU1GOTBiMTlrYjE5MGIxOWtiekUyTmpjM05qZzVPRGN6TnpNPTE2Njc3Njg5ODg2MzM=","aggregateFunction":"COUNT","numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":[{"maxNumberOfGroups":10,"numberOfGroupsBasedOn":"NO_OF_GROUP_BASED_ON_PER_METRIC","showOthers":false,"groupBy":[{"dataSource":"dGFibGV4Xzc5MDM5MF90b19kb190b19kbzE2Njc3Njg5ODczNzM=","groupByField":"project","isRange":false,"isChoice":false,"isPaBucket":false}]}],"sortBy":"value","sortByOrder":"desc","trendBy":null,"showChange":false,"showChangePercentage":false,"showTarget":false,"showForecast":false,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":false,"showSparkline":false,"showMetricLabel":false,"showThreshold":false,"showComment":false,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":false,"enableDrilldown":true,"filterConfigurations":[],"showMaximumRange":false,"applyDateRange":false,"numberOfPeriods":3,"showAbsolutePeriod":false,"scoreType":null,"showChangeFrom":"previous","period":"M","dateFormat":"default"}</component_props><h>10</h><name/><sys_class_name>par_dashboard_widget</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-06 21:10:16</sys_created_on><sys_id>23f97bf42f4311109ffc9facf699b6ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="To do" source="x_790390_to_do">796827f02f0311109ffc9facf699b6ae</sys_package><sys_policy/><sys_scope display_value="To do">796827f02f0311109ffc9facf699b6ae</sys_scope><sys_update_name>par_dashboard_widget_23f97bf42f4311109ffc9facf699b6ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-06 21:10:16</sys_updated_on><visualization/><w>2</w><x>0</x><y>11</y></par_dashboard_widget></record_update>]]></payload>
+        <payload_hash>163331691</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>ba1e2b382f0311109ffc9facf699b6a2</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 21:10:16</sys_created_on>
+        <sys_id>2ff97bf42f4311109ffc9facf699b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1844ec7a04c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-06 21:10:16</sys_updated_on>
+        <type>PAR Dashboard Widget</type>
+        <update_guid>67f97bf4cd4311108fee836a614c4eac</update_guid>
+        <update_guid_history>67f97bf4cd4311108fee836a614c4eac:163331691</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">ee1a33382f4311109ffc9facf699b60a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 21:10:44</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_widget">par_dashboard_widget</sys_db_object>
+        <sys_id>58be4aab785f4cf7a29d2acad26ba769</sys_id>
+        <sys_metadata>23f97bf42f4311109ffc9facf699b6ab</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="To do" source="x_790390_to_do">796827f02f0311109ffc9facf699b6ae</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To do">796827f02f0311109ffc9facf699b6ae</sys_scope>
+        <sys_scope_delete display_value="">73e2d5c93a30498a85d7d77db4904644</sys_scope_delete>
+        <sys_update_name>par_dashboard_widget_23f97bf42f4311109ffc9facf699b6ab</sys_update_name>
+        <sys_update_version display_value="par_dashboard_widget_23f97bf42f4311109ffc9facf699b6ab">2ff97bf42f4311109ffc9facf699b6ac</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

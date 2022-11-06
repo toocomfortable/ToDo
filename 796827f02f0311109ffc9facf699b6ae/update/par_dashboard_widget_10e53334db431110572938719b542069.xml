@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">90e533346a4311108a7d3fd10bb92b63</canvas>
+        <component display_value="">3a64f550256090d9578ede76158e899c</component>
+        <component_props>{"variant":"header-secondary","label":"My Things to do this quarter.","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <h>3</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 20:52:18</sys_created_on>
+        <sys_id>10e53334db431110572938719b542069</sys_id>
+        <sys_name/>
+        <sys_package display_value="To do" source="x_790390_to_do">796827f02f0311109ffc9facf699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do">796827f02f0311109ffc9facf699b6ae</sys_scope>
+        <sys_update_name>par_dashboard_widget_10e53334db431110572938719b542069</sys_update_name>
+        <visualization/>
+        <w>12</w>
+        <x>0</x>
+        <y>21</y>
+    </par_dashboard_widget>
+</record_update>

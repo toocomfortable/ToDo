@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-06 20:46:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b994f3b0fc4311109ec571a62eb7ea0d</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="To do" source="x_790390_to_do">796827f02f0311109ffc9facf699b6ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To do">796827f02f0311109ffc9facf699b6ae</sys_scope>
+        <sys_update_name>m2m_app_config_theme_b994f3b0fc4311109ec571a62eb7ea0d</sys_update_name>
+        <theme display_value="Starter Workspace Theme">f194f3b08c431110502e6f06930ee90c</theme>
+        <ux_app_configuration display_value="To do workspace Config">3194f3b0334311106f5c8a07b5326712</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>
